@@ -1,4 +1,4 @@
-Garage manager in C#
+Garage Managment System in C#
 
 During our C# course using oop and .NET features, a friend of mine and I created a garage system,
 The garage manages different clients who display their car\ motorcycle\ truck in the garage for a service,
