@@ -10,7 +10,7 @@ A **C# Garage Management System** developed using **OOP principles** and **.NET 
 - **Charge** electric vehicles  
 - Track unique vehicle attributes such as **color, fuel type, number of doors, etc.**
   
-## 🏗️ Design Patterns & Data Structures Used  
+## 🏗️ Design Patterns Used  
 - **Bridge Pattern** – Used to separate vehicle types from their specific characteristics  
 - **Factory Pattern** – Implemented to create different vehicle instances dynamically
   
